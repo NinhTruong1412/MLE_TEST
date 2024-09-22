@@ -5,6 +5,7 @@
 You are provided with historical sales data on daily basis. You are about to forecast the total amount of products sold in every shop for the test set. Shops and products slightly changes every month.
 You will provide your data process, analysis, modeling and evaluation (if any) on single notebook.
 
+
 # File descriptions
 
 - train.csv - the training set. Reference time from 2013-01 to 2015-10.
