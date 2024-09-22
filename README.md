@@ -41,7 +41,7 @@ Fields:
 + Feature enngineering
 + Modeling data
 + Evaluation
-**Note**: [View on Notebook](https://github.com/NinhTruong1412/MLE_TEST/tree/main/src/app)
+**Note**: [View on Notebook](https://github.com/NinhTruong1412/MLE_TEST/blob/main/experiments/main.ipynb)
 
 ### 2.2. Deploying sale prediction model
 I built a API for internal users, it can be integrated easily to many other tools and platform.
